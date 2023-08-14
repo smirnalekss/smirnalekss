@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**smirnalekss/smirnalekss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aleksandra Smirnova ✨  
 
-Here are some ideas to get you started:
+I'm currently studying to be a data analyst. I really love and enjoy it, especially vizualization.  
+For more than ten years my work has been connected with various calculations and now it's time to dive deeper into analytics))  
+🌱 I’m fond of reading, traveling, snowboarding and dogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skills:  
+
+`Python`, `Pandas`, `Numpy`, `Matplotlib`,  
+`Seaborn`, `Plotly`, `SQL`, `Tableau`  
+
+### Connect with me:
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+
+
+[telegram]: https://t.me/smirnalekss
